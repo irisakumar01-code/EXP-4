@@ -9,10 +9,8 @@ THEORY: Rectifier changes ac to dc and it is an essential part of power supply. 
 
 Half Wave Rectifier
 
-
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
-
 
 Full Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
@@ -34,19 +32,30 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+CIRCUIT DIAGRAMS:
 
 Half wave rectifier with filter:
+<img width="1041" height="676" alt="Screenshot 2026-03-14 003712" src="https://github.com/user-attachments/assets/3eafffb8-e396-48ac-bbb8-f3c0403333ee" />
 
 Bridge rectifier with filter:
+<img width="1041" height="582" alt="Screenshot 2026-03-14 003728" src="https://github.com/user-attachments/assets/bb2a4ab6-4967-43b1-8317-143604a9a48a" />
 
-TABULAR COLUMN
+TABULAR COLUMN:
+
 Rectifier without filter
-TABULAR COLUMN
+<img width="1023" height="308" alt="Screenshot 2026-03-14 003811" src="https://github.com/user-attachments/assets/8bd87412-3398-40d3-adbf-9bd907bfe2ff" />
+
+TABULAR COLUMN:
+
 Rectifier with filter
+<img width="1018" height="287" alt="Screenshot 2026-03-14 003829" src="https://github.com/user-attachments/assets/e743a659-decf-458e-a29d-c39db78f7433" />
 
 WAVEFORM:
+half wave rectifier:
+<img width="1045" height="580" alt="Screenshot 2026-03-14 003530" src="https://github.com/user-attachments/assets/8d9e1c2e-54f7-44bb-a6d7-4f24c15c5f2c" />
 
+full wave rectifier:
+<img width="1050" height="517" alt="Screenshot 2026-03-14 003556" src="https://github.com/user-attachments/assets/3913224d-a09e-4b3a-9ac4-6099f64f4759" />
 
 RESULT:
 
