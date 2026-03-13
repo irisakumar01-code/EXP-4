@@ -21,12 +21,6 @@ During the positive half cycle of the transformer secondary voltage, diode     i
 biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in 
 the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
 because of the voltage drop across the diode.
-During the positive half cycle of the secondary voltage, diodes  and  are forward biased and diodes and are reverse biased. Therefore, current flows 
-through the secondary winding, diode  , load resistor
-and diode  . During the negative half cycle,  and  are forward biased and diodes  and   are reverse biased. Therefore, current flows through the 
-secondary winding, diode .Load resistor During both the half cycles, the current flows through the load resistor in the same direction. Peak value of 
-the output voltage is less than the peak value of the input voltage by 1.2V due to the voltage drop across two diodes. The ripple factor of the bridge rectifier 
-is the same as that of full wave rectifier.
 All rectifier outputs contain considerable amount of ripple in addition to the DC component. In order to avoid AC components, a filter is connected at the output 
 of the rectifier.
 
