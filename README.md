@@ -6,6 +6,7 @@ To study the characteristics of half wave, full wave and bridge rectifier with a
 regulation.
 
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
+
 THEORY:
 Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is 
 utilised in rectifiers.
@@ -28,6 +29,7 @@ the output voltage is less than the peak value of the input voltage by 1.2V due 
 is the same as that of full wave rectifier.
 All rectifier outputs contain considerable amount of ripple in addition to the DC component. In order to avoid AC components, a filter is connected at the output 
 of the rectifier.
+
 Capacitor input filter, choke input filter, RC, CRC, LC, and CLC filters are the usually used filters. Capacitor input filter is the simplest and cheapest. A high 
 value capacitor C is connected in shunt with the load resistor . Capacitor charges to peak voltage  when the half cycle appears at the output. After the 
 peak value is passed, the capacitor discharges through the load resistor slowly since the diode is reverse biased by the capacitor voltage. Before the capacitor 
