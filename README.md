@@ -5,9 +5,7 @@ AIM:
 
 To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % 
 regulation.
-
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
-
 THEORY:
 Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is 
 utilised in rectifiers.
@@ -64,10 +62,6 @@ Rectifier with filter
 WAVEFORM:
 half wave rectifier:
 <img width="1045" height="580" alt="Screenshot 2026-03-14 003530" src="https://github.com/user-attachments/assets/8d9e1c2e-54f7-44bb-a6d7-4f24c15c5f2c" />
-.
-
-.
-
 WAVEFORM:
 full wave rectifier:
 <img width="1050" height="517" alt="Screenshot 2026-03-14 003556" src="https://github.com/user-attachments/assets/3913224d-a09e-4b3a-9ac4-6099f64f4759" />
