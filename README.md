@@ -1,9 +1,12 @@
 # EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
+
 AIM:
 To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % 
 regulation.
+
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
+
 THEORY:
 Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is 
 utilised in rectifiers.
