@@ -24,10 +24,6 @@ because of the voltage drop across the diode.
 All rectifier outputs contain considerable amount of ripple in addition to the DC component. In order to avoid AC components, a filter is connected at the output 
 of the rectifier.
 
-Capacitor input filter, choke input filter, RC, CRC, LC, and CLC filters are the usually used filters. Capacitor input filter is the simplest and cheapest. A high 
-value capacitor C is connected in shunt with the load resistor . Capacitor charges to peak voltage  when the half cycle appears at the output. After the 
-peak value is passed, the capacitor discharges through the load resistor slowly since the diode is reverse biased by the capacitor voltage. Before the capacitor 
-voltage drops substantially, next output cycle arrives and the capacitor recharges to peak.
 Rectifier Efficiency
 Rectifier efficiency is defined as the ratio of DC output power to the input power from the AC supply. Even with ideal rectifiers with no losses, the efficiency 
 is less than 100% because some of the output power is AC power rather than DC which manifests as ripple superimposed on the DC waveform.
