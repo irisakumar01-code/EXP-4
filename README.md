@@ -6,7 +6,6 @@ To study the characteristics of half wave, full wave and bridge rectifier with a
 regulation.
 
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
-
 THEORY:
 Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is 
 utilised in rectifiers.
