@@ -29,7 +29,7 @@ Full Wave Rectifier
 
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode  
 
-, load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse 
+, load resistor   and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse 
 
 biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in 
 
@@ -37,13 +37,13 @@ the same direction during both the half cycles. Peak value of the output voltage
 
 because of the voltage drop across the diode.
 
-During the positive half cycle of the secondary voltage, diodes      and      are forward biased and diodes and      are reverse biased. Therefore, current flows 
+During the positive half cycle of the secondary voltage, diodes  and  are forward biased and diodes and are reverse biased. Therefore, current flows 
 
-through the secondary winding, diode     , load resistor
+through the secondary winding, diode  , load resistor
 
-and diode     . During the negative half cycle,      and      are forward biased and diodes      and      are reverse biased. Therefore, current flows through the 
+and diode  . During the negative half cycle,  and  are forward biased and diodes  and   are reverse biased. Therefore, current flows through the 
 
-secondary winding, diode     . Load resistor       During both the half cycles, the current flows through the load resistor in the same direction. Peak value of 
+secondary winding, diode .Load resistor During both the half cycles, the current flows through the load resistor in the same direction. Peak value of 
 
 the output voltage is less than the peak value of the input voltage by 1.2V due to the voltage drop across two diodes. The ripple factor of the bridge rectifier 
 
@@ -55,7 +55,7 @@ of the rectifier.
 
 Capacitor input filter, choke input filter, RC, CRC, LC, and CLC filters are the usually used filters. Capacitor input filter is the simplest and cheapest. A high 
 
-value capacitor C is connected in shunt with the load resistor     . Capacitor charges to peak voltage      when the half cycle appears at the output. After the 
+value capacitor C is connected in shunt with the load resistor . Capacitor charges to peak voltage  when the half cycle appears at the output. After the 
 
 peak value is passed, the capacitor discharges through the load resistor slowly since the diode is reverse biased by the capacitor voltage. Before the capacitor 
 
@@ -107,7 +107,9 @@ half wave rectifier:
 WAVEFORM:
 
 .
+.
 full wave rectifier:
+
 <img width="1050" height="517" alt="Screenshot 2026-03-14 003556" src="https://github.com/user-attachments/assets/3913224d-a09e-4b3a-9ac4-6099f64f4759" />
 
 RESULT:
