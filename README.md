@@ -66,7 +66,6 @@ half wave rectifier:
 <img width="1045" height="580" alt="Screenshot 2026-03-14 003530" src="https://github.com/user-attachments/assets/8d9e1c2e-54f7-44bb-a6d7-4f24c15c5f2c" />
 
 WAVEFORM:
-
 .
 .
 full wave rectifier:
